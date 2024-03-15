@@ -48,7 +48,7 @@ class ControlePrincipal():
 
         self.limite = LimitePrincipal(self.root, self) 
 
-        self.root.title("Trabalho 14")
+        self.root.title("Sistema de Cadastro Basico")
 
         self.root.mainloop()
        
