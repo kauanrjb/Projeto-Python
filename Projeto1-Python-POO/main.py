@@ -1,5 +1,4 @@
 #Kauan Rajab
-#2022004805
 
 import tkinter as tk
 from tkinter import simpledialog
